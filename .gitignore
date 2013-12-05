@@ -1,0 +1,34 @@
+src/*.exe
+src/blehcoin
+src/blehcoind
+src/test_blehcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.blehcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+blehcoin-qt
+blehCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+blehcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
