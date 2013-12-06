@@ -1,5 +1,8 @@
 Blehcoin: a SHA256D version of 'foocoin'
 
+[![Build Status](https://travis-ci.org/RazorLove/blehcoin.png?branch=master)](https://travis-ci.org/RazorLove/blehcoin)
+
+
 
 Minimal Changes Needed: 
 
